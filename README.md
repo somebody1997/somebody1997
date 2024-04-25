@@ -1,5 +1,7 @@
 ### Hi there 👋
 * 🌱 Experience with full-stack web applications and software design. Skilled in Javascript, Node.js, and Linux. Hard-working developer who is passionate and committed to best practices, and code quality, and enjoys working in a team environment.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somebody1997&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **somebody1997/somebody1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
