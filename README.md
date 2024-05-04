@@ -1,5 +1,5 @@
 ### 💛 Hey I'm Eyan
-* 🗻 Explore the world with full-stack and cloud. Skilled in Javascript, Node.js.
+* 🗻 Explore the world with full-stack and cloud. Skilled in Javascript, Node.js, Vue.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=somebody1997&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somebody1997&theme=github)
